@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsretch",
+        "uuid": 5986292,
+        "checksum": "gekvm2"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
